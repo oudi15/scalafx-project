@@ -1,0 +1,30 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\audio,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\audio)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\background.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\background.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\DFT1.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\DFT1.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\DFT2.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\DFT2.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\down1.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\down1.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\down2.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\down2.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\enemy - Copy.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\enemy - Copy.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\enemy1.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\enemy1.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\enemy2.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\enemy2.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\enemy3.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\enemy3.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\enemy4.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\enemy4.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\enemy5.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\enemy5.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\enemy6.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\enemy6.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\gameover.jpg,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\gameover.jpg)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\gameover.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\gameover.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\left1.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\left1.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\left2.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\left2.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\logo.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\logo.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\right1.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\right1.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\right2.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\right2.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\tiles,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\tiles)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\up1.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\up1.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\up2.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\up2.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\tiles\DFT1.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\tiles\DFT1.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\tiles\DFT2.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\tiles\DFT2.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\tiles\DWT1.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\tiles\DWT1.png)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Oumar\Desktop\ProjFinal\goc1\src\main\resources\scalafx\images\tiles\WT.png,C:\Users\Oumar\Desktop\ProjFinal\goc1\target\scala-2.11\classes\scalafx\images\tiles\WT.png)[0m
