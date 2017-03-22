@@ -1,0 +1,22 @@
+Contents of This File
+Introduction
+Requirements
+Installation
+Gameplay
+Introduction
+GOC (Game of the Century) is a simple, dungeon-crawling game inspired by the classic, Gauntlet. It consists of a hero character that navigates through floors of a dungeon while either eliminating or avoiding enemies. Each floor of the dungeon is randomly generated, so each play through of GOC is unique.
+Requirements
+The following is required to run GOC:
+Windows XP/7/8 32- or 64-bit
+The latest version of Scala (2.11.6)
+The latest version Simple Build Tool – SBT (0.13.8)
+Installation
+Download and install the latest version of the Scala binaries. At the time of this writing, version 2.11.6 is the latest. www.scala-lang.org/download/
+Download and install the latest version of SBT. At the time of this writing, version 0.13.8 is the latest. www.scala-sbt.org/download.html
+Open the Command Prompt, and then navigate to the GOC directory. Type “sbt run” to run GOC.
+Gameplay
+On the screen menu, clicking on “play” generates monsters on a randomly generate maze-like map.
+Use the “up,” “down,” “left,” or “right” keys to navigate the hero around the map.
+Avoid or kill the monsters with the “S” button.
+Avoid obstacles and make your way to the portal to win the level.
+Upon reaching the portal, a new level is automatically generated. The game does not end as long as the hero doesn’t die. Getting hit thrice by any one of the monsters kills the hero.
